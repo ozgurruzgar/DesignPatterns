@@ -2,6 +2,8 @@
 
 namespace Builder
 {
+    //Bulder pattern, uygulamamızda belirli zamanlarda, belirli değişiklikler yapmak istediğimizde bunu belirli müşterilerimize göre
+    //değiştirebilme imkanı sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

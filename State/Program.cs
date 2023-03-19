@@ -2,6 +2,7 @@
 
 namespace State
 {
+    //State patterni, nesnemizin yapılan değişiklikler sonrasındaki durumunu bildiren tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

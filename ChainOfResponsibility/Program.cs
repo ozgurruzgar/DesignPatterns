@@ -2,6 +2,8 @@
 
 namespace ChainOfResponsibility
 {
+    //Chain of Responsibility patterni, uygulamamızı şirketimizdeki hiyerarşiye tasarlayıp o hiyerarşiye göre kullanmamıza olanak sağlayan 
+    //tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

@@ -1,10 +1,12 @@
 ﻿using Ninject;
 using System;
 
-namespace DependencyInversion_
+namespace DependencyInjection
 {
     class Program
     {
+        //Dependency Injection patterni, uygulamamızdaki bağımlılıkları gevşek hale getirerek uygulamamızı gelecek teknolojilere
+        //kolayca adapte edebilmemize olanak sağlar. Günümüzde IoC Container denilen kutular vasıtasıyla kullanılırlar.
         static void Main(string[] args)
         {
             IKernel kernel = new StandardKernel();

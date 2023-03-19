@@ -2,6 +2,7 @@
 
 namespace Adapter
 {
+    //Adapter pattern, sistemimize başka bir servis entegre edildiğinde sistemimizin bozulmadan çalışabilmesini sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

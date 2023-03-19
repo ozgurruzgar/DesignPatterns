@@ -2,6 +2,7 @@
 
 namespace Prototype
 {
+    //Prototype patterni, nesnemizin instance'ını klonlayarak bellekteki newleme maliyetini sıfıra indirgeyen tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

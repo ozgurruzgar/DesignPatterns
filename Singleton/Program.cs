@@ -2,6 +2,7 @@
 
 namespace Singleton
 {
+    //Singleton deseni, bir nesnenin sadece tek bir instance'ını üretip herkesin o instance'ını kullanmasını sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

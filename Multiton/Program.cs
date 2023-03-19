@@ -5,6 +5,7 @@ namespace Multiton
 {
     class Program
     {
+        //Multiton patterni, ayni tipteki nesnelere aynı instance'ı çokca üretebilme olanağı sağlar.
         static void Main(string[] args)
         {
             Camera camera = Camera.GetCamera("NIKON");

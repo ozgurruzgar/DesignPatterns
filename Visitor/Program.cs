@@ -5,6 +5,7 @@ namespace Visitor
 {
     class Program
     {
+        //Visitor patterni, üzerinde çalıştığımız nesneleri bozmadan onlara yeni özellikler atayabilmemizi olanak sağlar.
         static void Main(string[] args)
         {
             Manager manager = new Manager {Name="Engin",Salary=1000 };

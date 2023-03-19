@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Observer
 {
+    //Observer patterni, bir nesnedeki değişiklikleri listedeki tüm elemanlara bildiren tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

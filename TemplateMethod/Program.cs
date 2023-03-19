@@ -2,6 +2,8 @@
 
 namespace TemplateMethod
 {
+    //Template Method patterni, bir soyut sınıf şablonu oluşturup o soyut sınıfı implemente edecek somut sınıfların o şablona göre
+    //metodları override edebilmemizi sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

@@ -3,6 +3,8 @@ using System.Threading;
 
 namespace Proxy
 {
+    //Proxy patterni, cacheleme işlemine oldukça benzerdir. Yapılan bir işlemin sonucunu işlemi tekrarlamadan döndermesini sağlayan
+    //tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

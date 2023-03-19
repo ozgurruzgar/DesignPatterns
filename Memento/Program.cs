@@ -2,6 +2,7 @@
 
 namespace Memento
 {
+    //Memento patterni, yaptığımız işlemleri hafızaya alıp onları kolayca geri alabilmeye olanak sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

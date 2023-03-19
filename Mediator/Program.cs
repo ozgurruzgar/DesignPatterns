@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Mediator
 {
+    //Mediator patterni, ayni tip veya aynı inteface'i implemente eden nesnelerin birbiriyle ilişki kurabilmesini sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

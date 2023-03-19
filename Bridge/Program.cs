@@ -2,6 +2,8 @@
 
 namespace Bridge
 {
+    //Bridge patterni, Soyut sınıfımızdaki imzaların soyutlanıp alt sınıflarda implemente edildikten sonra soyut sınıfımızdaki imzayı
+    //adeta bir köprü gibi kullanıp hangi alt sınıfı kullanabileceğimize karara verme imkanı sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

@@ -2,6 +2,7 @@
 
 namespace Facade
 {
+    //Facade patterni, Uygulamamızda propertyleri,fonksiyonları..vs tek bir yerde toplayıp o yer üzerinden kullanabilmemizi sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

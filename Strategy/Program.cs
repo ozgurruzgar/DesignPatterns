@@ -2,6 +2,7 @@
 
 namespace Strategy
 {
+    //Strategy patterni, adı üstünde bir strateji belirleyip uygulamamızı ona göre şekillendirmemize olanak sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

@@ -43,11 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor\Visitor.csproj", "{58806F20-844A-4E82-9A33-252FC8ABD58D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversion", "DependencyInversion,\DependencyInversion.csproj", "{33D8D034-CFE2-4A11-8B80-0D3B78E70F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection", "DependencyInversion,\DependencyInjection.csproj", "{33D8D034-CFE2-4A11-8B80-0D3B78E70F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObject", "NullObject\NullObject.csproj", "{A76057AB-7F10-4160-90F7-519EF09AB2FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullObject", "NullObject\NullObject.csproj", "{A76057AB-7F10-4160-90F7-519EF09AB2FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiton", "Multiton\Multiton.csproj", "{F6C1DE19-9760-4D72-BFDF-6285741BB8E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiton", "Multiton\Multiton.csproj", "{F6C1DE19-9760-4D72-BFDF-6285741BB8E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

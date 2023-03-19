@@ -2,6 +2,7 @@
 
 namespace AbstractFactory
 {
+    //Abstract factory patterni factory'e ek olarak toplu nesenelerin kullanımını kolaylaştırmaktır.
     class Program
     {
         static void Main(string[] args)

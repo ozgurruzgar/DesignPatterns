@@ -2,6 +2,7 @@
 
 namespace Decarator
 {
+    //Decerator patterni, nesnelere dinamik olarak yeni sorumluluklar atamamızı sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

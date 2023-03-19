@@ -2,6 +2,8 @@
 
 namespace NullObject
 {
+    //Null Object patterni, uygulamamızı test etmek istediğimiz zaman interface'i implemente eden fake bir somut sınıf oluşturup
+    //onun üzerinden testimizi yapmamıza olanak sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

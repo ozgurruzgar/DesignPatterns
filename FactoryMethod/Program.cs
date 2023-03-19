@@ -2,6 +2,8 @@
 
 namespace FactoryMethod
 {
+    //Factory patterni, nesnelerin arasında interface vasıtasıyla ilişki oluşturmaya ve bu ilişki sayesinde interface'in
+    //referansını tuttuğu alt sınıflardan istediğimizi kullanbilmemize olanak sağlar.
     class Program
     {
         static void Main(string[] args)

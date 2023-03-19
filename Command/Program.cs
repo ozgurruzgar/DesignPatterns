@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 namespace Command
 {
+    //Command patterni, uygulamamızda yaptığımız işlemleri arka planda bir listede tutup kullanıcının isterine göre düzenleyebilmemize 
+    //olanak sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)

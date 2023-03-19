@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace Composite
 {
+    //Composite patterni, hiyerarşik yapı oluşturabilmemize imkan sağlayan tasarım desenidir.
     class Program
     {
         static void Main(string[] args)
